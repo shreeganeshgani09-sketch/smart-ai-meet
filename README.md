@@ -23,6 +23,4 @@ AI & Services
 OpenAI API
 Speech-to-Text API
 NLP-based summarization
-.
-.
-.
+Improved UI with glassmorphism and animations
